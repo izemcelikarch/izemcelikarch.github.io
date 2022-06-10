@@ -1,6 +1,6 @@
 body{
     height:100%;
-    background-color: #F3DCB2;
+    background-color: #e7dcca;
     font-family: "Droid Sans Mono", monospace;
     margin: 0px;
 }
@@ -41,7 +41,7 @@ body{
 /* Navigation Items*/
 
 .informative {
-    background: #F3DCB2;
+    background: #e7dcca;
     width: 25vw;
     min-width: 500px;
     height: 1000px;
@@ -163,7 +163,7 @@ a {
 
 /* Home Page Items*/
 
-.one {background: #F3DCB2;}
+.one {background: #e7dcca;}
 
 .one:empty {background: red;}
 
