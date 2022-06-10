@@ -1,0 +1,5 @@
+Project Name : Collective Dwelling 
+As part of my design process for Stage 2 Collective Dwelling Module, I studied the various architectural details found in Dover to create a design that would be true to its surroundings. In a town with an ageing population and little to no new architectural interventions, a design approach has been implemented. A study conducted of the architectural history of Dover, enabled to design a housing scheme that would be embraced by the town's residents and help revitalize the once popular Dover. This design guide was made for future developers looking to introduce new housing schemes into Dover. By following the guides, the aim was to ensure that the developments pay respect to the rich history and heritage Dover has to offer. 
+
+
+
