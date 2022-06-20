@@ -43,8 +43,6 @@ body{
 .informative {
     background: #e7dcca;
     width: 25vw;
-    min-width: 500px;
-    height: 1000px;
     color: black;
     
 }
@@ -54,26 +52,31 @@ body{
     height: 840px;
     width: 90%;
     padding: 10px;
-   /* background-color: #323445; */
     background-color: white;
 }
 
 .name {
-    position:absolute;
+    position:relative;
     display: block;
     color: black;
     font-weight: bold;
-    top: 5%;
-    left: 3%;
     text-decoration: none;
-
+    padding-top: 10px;
+    padding-left: 10px;
 }
 .intro{
-    position:absolute;
+    position:relative;
     color: grey;
-    top: 10%;
-    left: 3%;
+    padding-left: 10px;
+
 }
+
+.links{
+    position:relative;
+    list-style-type: none;
+    padding-left: 10px;
+}
+
 
 .profile-pic {
     display: block;
@@ -90,13 +93,7 @@ a {
     text-decoration: underline;
 }
 
-.links{
-    position:absolute;
-    top: 13%;
-    left: 3%;
-    transform: translate(-40%, 0); /* Align with other elements */
-    list-style-type: none;
-}
+
 
 .links li {
     padding-bottom: 8px;
