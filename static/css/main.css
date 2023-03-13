@@ -1,7 +1,7 @@
 body{
     height:100%;
-    background-color: #e7dcca;
-    font-family: "Droid Sans Mono", monospace;
+    background-color: #fff;
+    font-family: 'Helvetica', 'Arial', sans-serif;
     margin: 0px;
 }
 
@@ -29,6 +29,7 @@ body{
   }
  
 .slide {
+    background-color: #fff;
     width: 35vw;
     min-width: 350px;
     height: 100vh;
@@ -41,7 +42,6 @@ body{
 /* Navigation Items*/
 
 .informative {
-    background: #e7dcca;
     width: 25vw;
     color: black;
     
@@ -53,6 +53,7 @@ body{
     width: 90%;
     padding: 10px;
     background-color: white;
+    text-align: center;
 }
 
 .name {
@@ -63,6 +64,9 @@ body{
     text-decoration: none;
     padding-top: 10px;
     padding-left: 10px;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    font-size: large;
 }
 .intro{
     position:relative;
@@ -160,7 +164,6 @@ a {
 
 /* Home Page Items*/
 
-.one {background: #e7dcca;}
 
 .one:empty {background: red;}
 
